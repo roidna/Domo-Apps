@@ -8,4 +8,4 @@
     $ domo init
     $ domo dev
 
-#[Example App](https://github.com/roidna/Domo-Apps/tree/master/customer-satisfaction-example-master)
+#[Example App](https://github.com/roidna/Domo-Apps/tree/master/customer-satisfaction-example-app-master)
