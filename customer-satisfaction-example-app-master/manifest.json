@@ -1,0 +1,31 @@
+{
+  "name": "helloWorld",
+  "mapping": [
+    {
+      "alias": "chart1",
+      "dataSetId": "put id here",
+      "fields": []
+    },
+    {
+      "alias": "chart2",
+      "dataSetId": "put id here",
+      "fields": []
+    },
+    {
+      "alias": "chart3",
+      "dataSetId": "put id here",
+      "fields": []
+    },
+    {
+      "alias": "chart4",
+      "dataSetId": "put id here",
+      "fields": []
+    }
+  ],
+  "version": "1.0.0",
+  "size": {
+    "width": 5,
+    "height": 3
+  },
+  "ignore": []
+}

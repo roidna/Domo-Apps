@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+.pane {
+  margin-top: 50px;
+  margin-left: 10px;
+  float: left;
+}
+.pane p {
+  font-size: 1.3em;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+#pane1,
+#pane3 {
+  height: 300px;
+  width: 68%;
+}
+#pane2,
+#pane4 {
+  height: 300px;
+  width: 30%;
+}
+#pane2 p,
+#pane4 p {
+  font-size: 1em;
+  text-align: center;
+}
+#pane1,
+#pane3 {
+  clear: left;
+}
+#logoPane {
+  width: 100%;
+  float: none;
+  margin-top: 20px;
+  margin-left: 0;
+}
+#logoPane img {
+  display: block;
+  margin: 0 auto;
+}
+.tick text {
+  font-size: 12px;
+}
+.c3-chart-arcs-title {
+  font-size: 20px;
+  fill: #808080;
+  font-weight: 300;
+}
